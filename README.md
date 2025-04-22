@@ -1,6 +1,6 @@
 # ComputerVisionClassification
 
-# Cat Recognition Project
+## Cat Recognition Project
 
 This project consists of three components for recognizing cats in images using a Convolutional Neural Network (CNN). The model is trained using a custom dataset, and the following scripts handle different use cases for prediction: training a model, real-time webcam prediction, and static image prediction.
 
